@@ -1,4 +1,4 @@
-curl https://raw.githubusercontent.com/sanelesazi/vimsettings/master/vimrc_settings.txt >> ~/.vimrc
+curl https://raw.githubusercontent.com/sanelesazi/startupImac/master/vimrc_settings.txt >> ~/.vimrc
 echo "Vim settings Done!"
 open -a /Applications/Slack.app
 echo "Check For Slack..."

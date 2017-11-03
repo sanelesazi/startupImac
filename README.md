@@ -1,5 +1,5 @@
 # vimsettings
-For WeThinkCode_ vimrc default settings
+For WeThinkCode_ iMacs, My default configurations and app launches
 
 Run This Code in your Terminal
 

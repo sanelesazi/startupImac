@@ -1,4 +1,4 @@
 # vimsettings
 For WeThinkCode_ vimrc default settings
 
-Run: sh https://github.com/sanelesazi/vimsettings.git sh
+Run: sh -c "$(curl -fsSL https://raw.githubusercontent.com/sanelesazi/vimsettings/run.sh

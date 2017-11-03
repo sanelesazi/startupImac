@@ -3,4 +3,4 @@ For WeThinkCode_ vimrc default settings
 
 Run This Code in your Terminal
 
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/sanelesazi/vimsettings/master/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/sanelesazi/startupImac/master/install.sh)"

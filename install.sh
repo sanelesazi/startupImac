@@ -1,5 +1,5 @@
 curl https://raw.githubusercontent.com/sanelesazi/startupImac/master/vimrc_settings.txt >> ~/.vimrc
-echo "Vim settings Done!"
+curl https://raw.githubusercontent.com/sanelesazi/startupImac/master/zshrc_setting.txt >> ~/.zshrc
 open -a /Applications/Slack.app
 echo "Check For Slack..."
 open -a /Applications/Backup\ and\ Sync.app

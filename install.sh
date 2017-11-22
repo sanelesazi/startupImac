@@ -10,4 +10,5 @@ open -a /Applications/Google\ Chrome.app
 echo "Check Chrome..."
 open -a /Applications/iTerm.app
 echo "Check iTerm2"
+echo "Use alias - 'gccw' for gcc -Wall -Wextra -Werror to compile"
 echo "Done! :-)"

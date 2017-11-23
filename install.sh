@@ -11,4 +11,7 @@ echo "Check Chrome..."
 open -a /Applications/iTerm.app
 echo "Check iTerm2"
 echo "Use alias - 'gccw' for gcc -Wall -Wextra -Werror to compile"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/Tolsadus/42homebrewfix/master/install.sh)"
+echo "Installing brew..."
+brew install valgrind
 echo "Done! :-)"

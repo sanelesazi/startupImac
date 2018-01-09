@@ -14,6 +14,7 @@ echo "Use alias - 'gccw' for gcc -Wall -Wextra -Werror to compile"
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/Tolsadus/42homebrewfix/master/install.sh)"
 echo "Installing brew..."
 brew install valgrind
-exit
-open -a iterm2
 echo "Done! :-)"
+echo "relaunch terminal"
+exit
+
